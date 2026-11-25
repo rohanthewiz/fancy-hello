@@ -1,0 +1,7 @@
+# Compiled binary
+/fancy-hello
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
